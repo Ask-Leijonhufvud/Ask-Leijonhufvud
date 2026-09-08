@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ask Leijonhufvud
 
-<!--
-**Ask-Leijonhufvud/Ask-Leijonhufvud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Svenska
 
-Here are some ideas to get you started:
+Hej, jag heter Ask Leijonhufvud (han/honom) och studerar [Webbutveckling][TWEUG] på distans vid [Mittuniversitetet][miun].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## English
+
+Hello, my name is Ask Leijonhufvud (he/him) and I'm remotely studying [Web Development][TWEUG] at [Mittuniversitetet][miun] in Sweden.
+
+
+[miun]: https://www.miun.se/
+[TWEUG]: https://www.miun.se/utbildning/program/webbutveckling/
